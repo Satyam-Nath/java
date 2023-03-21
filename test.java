@@ -69,6 +69,18 @@ public class test{
         for(op=70;op<=75;op++){
             System.out.println("The number is " + op);
         }
+        //Using while loop
+        int sn = 1;
+        while(sn<=10){
+            System.out.println("The value is " +sn);
+            sn = sn+1;
+        }
+        //Practicing while loop
+        int ns = 1;
+        while(ns<=5){
+            System.out.println("The value of ns is " + ns);
+            ns = ns+1;
+        }
         }
         
     }
