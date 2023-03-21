@@ -41,7 +41,7 @@ public class test{
             System.out.println("Invalid choice.");
         }
         //Practicing the switch statement
-        int app = 3;
+        int app = 2;
         switch(app){
             case 1:
             System.out.println("The number is one.");
@@ -53,6 +53,16 @@ public class test{
             System.out.println("The number is three.");
             break;
 
+        }
+        //Using for loop
+        int i = 1;
+        for(i=1; i<=3;i++){
+            System.out.println("The value of i is " + i);
+        }
+        //Practicing for loop
+        int qwe = 40;
+        for(qwe = 40; qwe<=50; qwe++){
+            System.out.println("Your roll no. is " + qwe);
         }
         }
         
