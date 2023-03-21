@@ -64,6 +64,11 @@ public class test{
         for(qwe = 40; qwe<=50; qwe++){
             System.out.println("Your roll no. is " + qwe);
         }
+        //Practicing for loop 2
+        int op = 70;
+        for(op=70;op<=75;op++){
+            System.out.println("The number is " + op);
+        }
         }
         
     }
