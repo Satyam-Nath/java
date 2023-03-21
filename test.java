@@ -40,6 +40,20 @@ public class test{
             default:
             System.out.println("Invalid choice.");
         }
+        //Practicing the switch statement
+        int app = 3;
+        switch(app){
+            case 1:
+            System.out.println("The number is one.");
+            break;
+            case 2:
+            System.out.println("The number is two.");
+            break;
+            case 3:
+            System.out.println("The number is three.");
+            break;
 
+        }
+        }
+        
     }
-}
