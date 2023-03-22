@@ -80,7 +80,8 @@ public class test{
         while(ns<=5){
             System.out.println("The value of ns is " + ns);
             ns = ns+1;
-        }
-        }
         
+        }
     }
+}
+        
